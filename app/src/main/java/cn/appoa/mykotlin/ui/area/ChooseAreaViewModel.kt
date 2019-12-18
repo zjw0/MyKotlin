@@ -8,9 +8,9 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import cn.appoa.mykotlin.CoolWeatherApplication
 import cn.appoa.mykotlin.data.PlaceRepository
-import cn.appoa.mykotlin.data.model.weather.City
-import cn.appoa.mykotlin.data.model.weather.County
-import cn.appoa.mykotlin.data.model.weather.Province
+import cn.appoa.mykotlin.data.model.place.City
+import cn.appoa.mykotlin.data.model.place.County
+import cn.appoa.mykotlin.data.model.place.Province
 import cn.appoa.mykotlin.ui.area.ChooseAreaFragment.Companion.LEVEL_CITY
 import cn.appoa.mykotlin.ui.area.ChooseAreaFragment.Companion.LEVEL_COUNTY
 import cn.appoa.mykotlin.ui.area.ChooseAreaFragment.Companion.LEVEL_PROVINCE

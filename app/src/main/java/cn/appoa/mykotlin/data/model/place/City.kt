@@ -1,4 +1,4 @@
-package cn.appoa.mykotlin.data.model.weather
+package cn.appoa.mykotlin.data.model.place
 
 import com.google.gson.annotations.SerializedName
 import org.litepal.crud.LitePalSupport

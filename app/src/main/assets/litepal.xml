@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="kotlin_cool_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="cn.appoa.mykotlin.data.model.place.Province" />
+        <mapping class="cn.appoa.mykotlin.data.model.place.City" />
+        <mapping class="cn.appoa.mykotlin.data.model.place.County" />
+    </list>
+    <storage value="external" />
+</litepal>

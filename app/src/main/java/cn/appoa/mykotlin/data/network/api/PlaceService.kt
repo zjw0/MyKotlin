@@ -1,9 +1,9 @@
 package cn.appoa.mykotlin.data.network.api
 
 
-import cn.appoa.mykotlin.data.model.weather.City
-import cn.appoa.mykotlin.data.model.weather.County
-import cn.appoa.mykotlin.data.model.weather.Province
+import cn.appoa.mykotlin.data.model.place.City
+import cn.appoa.mykotlin.data.model.place.County
+import cn.appoa.mykotlin.data.model.place.Province
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
