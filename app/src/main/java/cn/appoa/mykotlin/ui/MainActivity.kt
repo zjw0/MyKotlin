@@ -5,6 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProviders
 import cn.appoa.mykotlin.R
+import cn.appoa.mykotlin.ui.area.ChooseAreaFragment
+import cn.appoa.mykotlin.ui.weather.WeatherActivity
+import cn.appoa.mykotlin.util.InjectorUtil
 
 class MainActivity : AppCompatActivity() {
 

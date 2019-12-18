@@ -1,8 +1,8 @@
 package cn.appoa.mykotlin.data
 
-
 import cn.appoa.mykotlin.data.db.WeatherDao
 import cn.appoa.mykotlin.data.model.weather.Weather
+import cn.appoa.mykotlin.data.network.CoolWeatherNetwork
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

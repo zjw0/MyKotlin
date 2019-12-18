@@ -2,6 +2,8 @@ package cn.appoa.mykotlin.data.db
 
 import android.content.SharedPreferences
 import android.preference.PreferenceManager
+import cn.appoa.mykotlin.CoolWeatherApplication
+import cn.appoa.mykotlin.data.model.weather.Weather
 import com.google.gson.Gson
 
 class WeatherDao {
